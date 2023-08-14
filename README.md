@@ -9,6 +9,8 @@
 - _Python_ 3.7 или выше
 - Библиотека _telebot_
 - Библиотека _requests_
+- Библиотека pandas
+- Библиотека flask
 - Библиотека _SQLAlchemy_
 - _PostgreSQL_
 
